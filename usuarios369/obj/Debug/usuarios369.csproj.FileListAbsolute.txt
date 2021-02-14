@@ -1,0 +1,17 @@
+E:\Proyectos en Csharp\usuarios369\bin\Debug\usuarios369.exe
+E:\Proyectos en Csharp\usuarios369\bin\Debug\usuarios369.pdb
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.csprojAssemblyReference.cache
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.Properties.Resources.resources
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.exe
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.pdb
+E:\Proyectos en Csharp\usuarios369\obj\Debug\usuarios369.Presentacion.Usuarios.resources
+C:\Users\ale_a\Downloads\usuarios369\bin\Debug\usuarios369.exe
+C:\Users\ale_a\Downloads\usuarios369\bin\Debug\usuarios369.pdb
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.csprojResolveAssemblyReference.cache
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.Presentacion.Usuarios.resources
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.Properties.Resources.resources
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.csproj.GenerateResource.Cache
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.exe
+C:\Users\ale_a\Downloads\usuarios369\obj\Debug\usuarios369.pdb
